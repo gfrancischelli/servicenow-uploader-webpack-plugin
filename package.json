@@ -1,0 +1,15 @@
+{
+  "name": "servicenow-uploader-webpack-plugin",
+  "version": "0.0.0",
+  "description": "Upload bundle to your Servicenow instance after compilation",
+  "homepage": "https://github.com/gfrancischelli/servicenow-uploader-webpack-plugin",
+  "repository": "https://github.com/gfrancischelli/servicenow-uploader-webpack-plugin",
+  "main": "./src/index.js",
+  "author": "Giovanni Francischelli",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "servicenow"
+  ]
+}
